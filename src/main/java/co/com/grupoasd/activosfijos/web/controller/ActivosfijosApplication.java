@@ -1,4 +1,4 @@
-package co.com.grupoasd.activosfijos;
+package co.com.grupoasd.activosfijos.web.controller;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
