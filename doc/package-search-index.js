@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"co.com.grupoasd.activosfijos.domain.service"},{"l":"co.com.grupoasd.activosfijos.persistence"},{"l":"co.com.grupoasd.activosfijos.persistence.crud"},{"l":"co.com.grupoasd.activosfijos.persistence.entity"},{"l":"co.com.grupoasd.activosfijos.web.controller"}];updateSearchResults();

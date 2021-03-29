@@ -1,0 +1,5 @@
+co.com.grupoasd.activosfijos.domain.service
+co.com.grupoasd.activosfijos.persistence
+co.com.grupoasd.activosfijos.persistence.crud
+co.com.grupoasd.activosfijos.persistence.entity
+co.com.grupoasd.activosfijos.web.controller
